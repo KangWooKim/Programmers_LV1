@@ -1,7 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/42840
 
-#include <string>
-#include <vector>
 #include <bits/stdc++.h>
 
 using namespace std;
